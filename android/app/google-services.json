@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "894974761331",
+    "project_id": "gallery-app-9929c",
+    "storage_bucket": "gallery-app-9929c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894974761331:android:b40a31916fa13cd0b10d06",
+        "android_client_info": {
+          "package_name": "com.easyapproach.gallery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894974761331-ncb58fc0llkiu9dgm66617r9se77f805.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyid5dFok9Z56UVShOh7A5p9A2K07FxxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894974761331-ncb58fc0llkiu9dgm66617r9se77f805.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
